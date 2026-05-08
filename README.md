@@ -109,8 +109,33 @@ Checks if task data is valid.
 ### app.js
 Connects all task manager files together.
 
+
+## userApi.js
+
+Creates APIs to manage user data.  
+Supports adding, updating, deleting, and viewing users.
+
+### Operations
+- Get all users
+- Get user by ID
+- Add new user
+- Update user details
+- Delete user
+
 ---
 
+## prodApi.js
+
+Creates APIs to manage product data.  
+Supports CRUD operations for products.
+
+### Operations
+- Get all products
+- Get product by ID
+- Add new product
+- Update product details
+- Delete product
+---
 # Concepts Practiced
 
 - Arrays
